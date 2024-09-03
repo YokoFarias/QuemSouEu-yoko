@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(92, 159, 204);
+    padding: 30px;
+}      
+
+.paragrafo {
+    color: rgb(63,35, 0, 0.664);
+    text-align: justify;
+    padding: 0px 50px;    
+    font-style: italic;
+    font-size: 25px;
+    background-color: rgb(207, 131, 189);
+}
+
+.imagens-container {
+    text-align: center;
+    
+}
+
+.imagens {
+    display: inline-block;
+
+}
+
+.imagens img {
+    width: 300px;
+    margin: 50px 250px;
+    padding: 0px 50px;
+}
+
+table, th, td, tr{border: 1px solid black;
+}
+
+h1 { 
+    color: rgba(68, 46, 33, 0.863);
+    font-size: 70px;
+    font-style: italic;
+    text-align: center;
+    margin: 0px;
+    margin: 0px;
+    padding: 20px 250px;
+}
+
+.video {
+    width: 600px;
+    text-align: center;
+}
+
+.tabela-box {
+    background-color: rgb(195, 195, 233);
+}
+
+h2 {
+    text-align: center;
+}
+
+.lista-box {
+    text-align: center;
+}
+
+.lista {
+    display: inline-block; 
+    text-align: left; 
+}
+
+.ul {
+    text-align: center;
+    display: block;
+}       
+
+.video {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%; /* Optional: to ensure the video doesn't overflow its container */
+};
+
+.rodape {
+    text-align: center;
+}
